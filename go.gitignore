@@ -1,0 +1,7 @@
+.idea/
+
+# Ignora la cartella di configurazione di Visual Studio Code
+.vscode/
+
+# Ignora i file di log
+*.log
